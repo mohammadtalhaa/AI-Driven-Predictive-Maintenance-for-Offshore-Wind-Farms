@@ -1,15 +1,13 @@
 # 🌊 AI-Driven Predictive Maintenance for Offshore Wind Farms
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://YOUR_USERNAME.github.io/wind-turbine-predictor)
-
+https://mohammadtalhaa.github.io/AI-Driven-Predictive-Maintenance-for-Offshore-Wind-Farms/
 This project demonstrates an end-to-end Machine Learning pipeline for predicting the **Remaining Useful Life (RUL)** of offshore wind turbine components using synthetic sensor data. 
 
 **Why this project?** 
 Norway is a global leader in offshore renewable energy. This project aligns with the country's strategic focus on sustainable AI and smart infrastructure, showcasing my ability to build, deploy, and serve ML models for real-world engineering challenges.
 
 ## 🚀 Live Demo
-Visit the GitHub Pages site to upload sensor data and get instant predictions without installing anything.
-
+https://mohammadtalhaa.github.io/AI-Driven-Predictive-Maintenance-for-Offshore-Wind-Farms/
 ## 🧠 Model Architecture
 - **Input**: 10 timesteps of 3 sensor readings (Vibration, Temperature, RPM) → Flattened to 30 features.
 - **Layers**: Dense (64) → Dropout → Dense (32) → Dense (1).
